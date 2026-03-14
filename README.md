@@ -46,41 +46,23 @@ pip install -r requirements.txt
 //Bash
 streamlit run app.py
 ## 📷 Project Screenshots
-![Dashboard]
-�
-Stock Analysis
-�
-RSI Indicator
-![RSI](images/RSI graph.jpg)
-Volume Chart
-![Volume](images/volume graph.jpg)
-AI Explanation
-�
-Virtual Trading Simulator
-![Trading](images/virtual trading.jpg)
-Portfolio Result
-�
-🎯 Purpose of the Project
-The main goal of this project is to make stock market learning easier for beginners by providing simple explanations along with visual financial analysis.
-Users can also practice trading using virtual money without risking real investments.
-⭐ Future Improvements
-AI-based stock prediction models
-News sentiment analysis
-Advanced technical indicators
-Portfolio risk analysis
-👩‍💻 Author
-Shivani Jajjela
-AIML Student passionate about AI, Data Science, and FinTech applications.
-⭐ If you found this project useful, feel free to star the repository!
-Copy code
+![Dashboard](images/dashboard.jpg)
+![Analysis](images/analysis.jpg)
+![RSI](images/rsi_graph.jpg)
+![Volume](images/volume_graph.jpg)
+![Explanation](images/explanation.jpg)
+![Trading](images/virtual_trading.jpg)
+![Portfolio](images/portfolio.jpg)
 
----
-
-# After Updating README
-
-Push the changes:
-
-```bash
-git add README.md
-git commit -m "Updated professional README"
-git push
+## 🎯 Purpose of the Project
+  The main goal of this project is to make stock market learning easier for beginners by providing simple explanations along with visual financial analysis.
+  Users can also practice trading using virtual money without risking real investments.
+## ⭐ Future Improvements
+  AI-based stock prediction models
+  News sentiment analysis
+  Advanced technical indicators
+  Portfolio risk analysis
+## 👩‍💻 Author
+  Shivani Jajjela
+  AIML Student passionate about AI, Data Science, and FinTech applications.
+## ⭐ If you found this project useful, feel free to star the repository!
